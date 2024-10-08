@@ -1,5 +1,5 @@
-# Calling HPV Integration Using Illumina Short-Read Sequencing
-Workflow for calling HPV integration sites and events in Illumina short-read sequencing data. 
+# Calling HPV Integration Fusions in RNA Short-Read Sequencing
+Workflow for calling HPV integration fusion sites in short-read RNA sequencing data. 
 
 # Installation
 This will clone the repository. You can run workflow within this directory.
