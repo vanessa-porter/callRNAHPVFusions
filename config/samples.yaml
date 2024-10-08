@@ -1,0 +1,7 @@
+samples:
+  sampleName_1:
+    ont-dna-sites: /path/to/hpv_integration_sites.bed
+    rna: /path/to/rnaseq.bam
+  sampleName_2:
+    ont-dna-sites: /path/to/hpv_integration_sites.bed
+    rna: /path/to/rnaseq.bam
